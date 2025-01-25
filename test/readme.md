@@ -1,10 +1,13 @@
-# This Is A Heading
+# About Me
 
-Here's some text. ![This is an image](./standard_example_image.png)
+Here to learn how to code wanting to build my skills ![This is an image](.//home/cooperw/test/technology-1283624_1280.jpg)
 
-## An Informative Subheading
+## Hobbies
 
-* These 
-* are 
-* dot 
-* points
+* Gaming
+* Cooking
+* Tech
+* Music
+* Learning how things work
+
+
