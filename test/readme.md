@@ -1,6 +1,6 @@
 # About Me
 
-Here to learn how to code wanting to build my skills ![This is an image](.//home/cooperw/test/technology-1283624_1280.jpg)
+Here to learn how to code wanting to build my skills ![This is an image](https://pixabay.com/photos/technology-computer-code-javascript-1283624/)
 
 ## Hobbies
 
